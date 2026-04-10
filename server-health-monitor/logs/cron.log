@@ -1,0 +1,6 @@
+/home/ubuntu/devops-shell-projects/server-health-monitor/scripts/monitor.sh: line 4: ./logger.sh: No such file or directory
+/home/ubuntu/devops-shell-projects/server-health-monitor/scripts/monitor.sh: line 54: log_info: command not found
+/home/ubuntu/devops-shell-projects/server-health-monitor/scripts/monitor.sh: line 33: log_info: command not found
+/home/ubuntu/devops-shell-projects/server-health-monitor/scripts/monitor.sh: line 46: log_alert: command not found
+/home/ubuntu/devops-shell-projects/server-health-monitor/scripts/monitor.sh: line 47: ./alert.sh: No such file or directory
+/home/ubuntu/devops-shell-projects/server-health-monitor/scripts/monitor.sh: line 56: log_info: command not found
