@@ -1,0 +1,12 @@
+2026-04-10 07:10:21 : Backup started
+2026-04-10 07:10:21 : Backup successful: /home/ubuntu/devops-shell-projects/backup-manager/backups/backup_2026-04-10_07-10-21.tar.gz
+2026-04-10 07:10:21 : Backup completed
+2026-04-10 07:10:21 : Cleanup started
+2026-04-10 07:10:21 : Old backups deleted (>7 days)
+2026-04-10 07:10:21 : Cleanup completed
+2026-04-10 07:12:01 : Backup started
+2026-04-10 07:12:01 : Backup successful: /home/ubuntu/devops-shell-projects/backup-manager/backups/backup_2026-04-10_07-12-01.tar.gz
+2026-04-10 07:12:01 : Backup completed
+2026-04-10 07:12:01 : Cleanup started
+2026-04-10 07:12:01 : Old backups deleted (>7 days)
+2026-04-10 07:12:01 : Cleanup completed
