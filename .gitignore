@@ -1,8 +1,33 @@
-# Logs
-*/logs/*.log
+# -------------------------------
+#  Logs (keep folder, ignore files)
+# -------------------------------
+# Ignore all log files but keep logs directory
+#*/logs/*.log
 
-# Backups
-*/backups/*.tar.gz
+# Keep logs folder structure
 
-# Temp
+# -------------------------------
+#  Backup files (generated artifacts)
+# -------------------------------
+# Ignore compressed backup files
+#*/backups/*.tar.gz
+
+# Keep backups directory for structure visibility
+#!*/backups/
+
+# -------------------------------
+#  Temporary / testing files
+# -------------------------------
 *.tmp
+*.swp
+*.bak
+
+# -----------------------------
+# -------------------------------
+# Notes
+# -------------------------------
+# - We keep folder structure visible for learning/demo purposes
+# - Only generated files are ignored
+# - Helps maintain clean repo + security
+# - Uncomment when needed
+
