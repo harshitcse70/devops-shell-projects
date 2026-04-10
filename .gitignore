@@ -1,0 +1,8 @@
+# Logs
+*/logs/*.log
+
+# Backups
+*/backups/*.tar.gz
+
+# Temp
+*.tmp
